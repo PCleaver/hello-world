@@ -1,2 +1,2 @@
-user(input("Enter your name here"))
+user(input("Enter your name here: "))
 print(user)
